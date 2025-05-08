@@ -1,2 +1,2 @@
-# netflix-clone
-This project is a simplified front end clone of Netflix. It was created with simple html , css and javascript.
+## NETFLIX CLONE
+A Netflix-inspired web app built with React, Vite, and Tailwind CSS, to display movies and TV shows. Features a responsive UI for browsing, searching, and viewing trailers.
